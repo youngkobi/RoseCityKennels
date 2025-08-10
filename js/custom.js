@@ -1,5 +1,5 @@
 /*
-Template Name: Woof!
+Template Name: Rose City Kennels!
 Author: Ingrid Kuhn
 Author URI: themeforest/user/ingridk
 Version: 2.0

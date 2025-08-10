@@ -1,5 +1,5 @@
 /*
-Template Name: Woof!
+Template Name: Rose City Kennels!
 Author: Ingrid Kuhn
 Author URI: themeforest/user/ingridk
 Version: 2.1
@@ -1169,7 +1169,6 @@ select.form-control {
 /* Blurb */
  .blurb-img {
      position: absolute;
-     top: -300px;
      left: 0px;
      z-index:999;
 }
@@ -1893,10 +1892,6 @@ select.form-control {
   margin-top: -2%;
 }
  
-.home__pic{
-    width: 800px;
-    height: 910px;
-}
 
 .side__home{
     width: 600px;
